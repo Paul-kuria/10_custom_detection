@@ -1,0 +1,8 @@
+# Environments
+.venv/
+.env/
+
+# Directories
+__pycache__
+vids
+dnn_model
